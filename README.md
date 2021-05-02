@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Vanshika
-#### A passionate frontend web developer and opensource contributer
+#### A passionate Frontend Web Developer and Opensource Contributer
 
 ### 📜 About me:
 
