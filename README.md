@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning backend
 - 👯 I’m looking to collaborate on web development projects
 - 💬 Ask me about anything related to Frontend web development 
-- 📝 Checkout my <a href="https://drive.google.com/file/d/1cBri4Dj2cI_nlxvpYNDgu-ivTR9bI1tk/view?usp=sharing">Resume.</a>
 - 📫 Reach me at **vanshikabhasin9@gmail.com**
 ### 💻 My Tech Stack:
 
