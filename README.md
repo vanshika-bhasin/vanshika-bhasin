@@ -24,8 +24,9 @@
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
   <a href="https://codepen.io/_vanshika_" rel="nofollow">
-    <img align="left" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" style="max-width:100%;>
+  <img align="left" alt="Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
 </p>
 <br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vanshika-bhasin&show_icons=true&theme=vision-friendly-dark)
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=vanshika-bhasin&theme=vision-friendly-dark&show_icons=true)](https://github.com/vanshika-bhasin/github-readme-stats)
